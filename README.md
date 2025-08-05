@@ -1,7 +1,5 @@
 # Wordpress & Docker
 
-Direktori ini berisi file `compose.yml` dan `Dockerfile` untuk membangun docker image dan menjalankan wordpress menggunakan docker.
-
 ### Proses Instalasi
 1. _Clone_ repositori ini dengan menjalankan perintah `git clone https://github.com/dhandhanggula/wordpress-docker.git` atau unduh dengan menekan tombol **Code** lalu **Download ZIP**
 2. Masuk ke dalam folder **wordpress-docker**
