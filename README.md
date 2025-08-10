@@ -1,6 +1,10 @@
 # Wordpress & Docker
 
-### Proses Instalasi
+### Requirements
+1. Docker
+2. Docker Compose
+
+### Proses Instalasi Wordpress
 1. _Clone_ repositori ini dengan menjalankan perintah `git clone https://github.com/dhandhanggula/wordpress-docker.git` atau unduh dengan menekan tombol **Code** lalu **Download ZIP**
 2. Masuk ke dalam folder **wordpress-docker**
 3. Jalankan perintah `docker-compose up -d --build` atau `sudo docker-compose up -d --build`
